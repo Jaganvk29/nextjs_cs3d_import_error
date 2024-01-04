@@ -11,7 +11,13 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.4"
+    "next": "14.0.4",
+    "@cornerstonejs/calculate-suv": "^1.1.0",
+    "@cornerstonejs/dicom-image-loader": "^1.38.0",
+    "@cornerstonejs/streaming-image-volume-loader": "^1.38.0",
+    "@cornerstonejs/tools": "^1.38.0",
+    "dcmjs": "^0.30.0",
+    "dicomweb-client": "^0.10.3"
   },
   "devDependencies": {
     "typescript": "^5",
